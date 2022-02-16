@@ -1,5 +1,3 @@
-HELLO!!
-
 Example Voting App
 =========
 
